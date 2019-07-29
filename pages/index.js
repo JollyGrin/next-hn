@@ -30,7 +30,10 @@ class Index extends React.Component {
     }
 
     return (
-      <Layout>
+      <Layout
+        title="Hacker Next"
+        description="A clone of Hacker News built on Next.js"
+      >
         <StoryList stories={stories} />
       </Layout>
     );
