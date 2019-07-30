@@ -6,7 +6,7 @@ This is a clone of Hacker News using next.js
 
 Using the tutorial from [udemy](https://www.udemy.com/universal-react-with-nextjs-the-ultimate-guide/)
 
-# Install via terminal
+# 1) Install via terminal
 
 ## Download the project
 
@@ -22,13 +22,11 @@ Then install the npm modules with `npm i`
 
 `npm run dev`
 
-# Deploy
+# 2) Deploy
 
-Download [Now CLI](https://zeit.co/download) and make a free account.
+1. Download [Now CLI](https://zeit.co/download) and make a free account.
 
-## Build & deploy the app
-
-`now`
+2. run `now`
 
 # Bugs
 
