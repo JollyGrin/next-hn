@@ -11,7 +11,12 @@ const Layout = ({ children, title, description }) => (
       <nav>
         <Link href="/">
           <a>
-            <span className="main-title">Hacker Next</span>
+            <span className="main-title">Hacker News: built with Next.js</span>
+          </a>
+        </Link>
+        <Link href="https://github.com/JollyGrin/next-hn">
+          <a>
+            <span className="github-link">Source on Github</span>
           </a>
         </Link>
       </nav>
@@ -40,6 +45,11 @@ const Layout = ({ children, title, description }) => (
 
       nav .main-title {
         font-weight: bold;
+      }
+
+      nav .github-link {
+        font-size: 0.8em;
+        padding-left: 2rem;
       }
     `}</style>
 
