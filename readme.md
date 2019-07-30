@@ -1,17 +1,19 @@
-## Testing Next with Hacker News
+# Testing Next with Hacker News
 
 Using the tutorial from [udemy](https://www.udemy.com/universal-react-with-nextjs-the-ultimate-guide/)
 
-## Install via terminal
+# Install via terminal
 
-# Download the project
+## Download the project
 
 `git clone https://github.com/JollyGrin/next-hn.git`
 
-# CD into the project directory & install npm modules
+## Install npm modules
+
+Change into the project directory with `cd` and then install the npm modules with `npm i`
 
 `npm i`
 
-# Run the app on local host
+## Run the app on local host
 
 `npm run dev`
