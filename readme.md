@@ -1,6 +1,10 @@
 # Testing Next with Hacker News
 
+This is a clone of Hacker News using next.js
+
 Using the tutorial from [udemy](https://www.udemy.com/universal-react-with-nextjs-the-ultimate-guide/)
+
+![](https://i.imgur.com/I2C1kIs.png)
 
 # Install via terminal
 
@@ -10,10 +14,12 @@ Using the tutorial from [udemy](https://www.udemy.com/universal-react-with-nextj
 
 ## Install npm modules
 
-Change into the project directory with `cd` and then install the npm modules with `npm i`
+Change into the project directory with `cd`
 
-`npm i`
+Then install the npm modules with `npm i`
 
 ## Run the app on local host
 
 `npm run dev`
+
+## Deploy to Cloud
