@@ -21,4 +21,4 @@ Using the tutorial from [udemy](https://www.udemy.com/universal-react-with-nextj
 
 # Bugs
 
-- Visiting a comment page from outside the homescreen results in an error
+- Visiting a comment page from outside the homescreen results in an error. Example: `https://hn.dean.coffee/story?id=20564382` will not resolve unless you go to it via hn.dean.coffee and clicking a comment
