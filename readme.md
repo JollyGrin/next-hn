@@ -4,11 +4,14 @@ Using the tutorial from [udemy](https://www.udemy.com/universal-react-with-nextj
 
 ## Install via terminal
 
-Download the project
+# Download the project
+
 `git clone https://github.com/JollyGrin/next-hn.git`
 
-CD into the project directory & install npm modules
+# CD into the project directory & install npm modules
+
 `npm i`
 
-Run the app on local host
+# Run the app on local host
+
 `npm run dev`
